@@ -1,7 +1,5 @@
-# GlassFrame
-Base application for Google Glass apps (SDK version 19)
+# glass-native-launcher
+## IT ACTUALLY WORKS
+a simple app to launch native android apps that would otherwise be invisible on Google Glass
 
-SDK Version 19 (Android KitKat (4.4))  
-targetSdkVersion = 29  
-  
-master branch has Java version, kotlin branch has Kotlin version  
+used template from: https://github.com/tujson/GlassImmersionFrame
