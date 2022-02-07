@@ -1,4 +1,4 @@
-package dev.synople.glassframe;
+package dev.synople.nativelauncher;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
